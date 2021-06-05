@@ -1,0 +1,51 @@
+# Most used stations
+
+We wanted to see how total ridership is distributed in the area over the past 3 years and also how it relates to household income. 
+Here we can see that the majority of the trips are taken by individuals with higher household incomes just outside of Jersey City. 
+We can also see the busiest start and stop stations. Grove st PATH and Hamilton Park stations are the stations with the most trips recorded. 
+This might be an opportunity for growth in those areas. 
+Maybe the other stations in the area are being limited by the available bikes.
+
+# Longest Tripduration
+
+In addition to the busiest stations, here we can see the stations where users spent the longest time on rides. 
+Liberty Light Rail Station is the station where users ended their journey and spent the most time on that journey. 
+What we can see from the last slide is that users that ended their journey at Liberty Light Rail station were more likely to start their trips at that same station. 
+This could indicate leasure trips. 
+We can look at reasons why this may be happening and possiblely use it to increase marketing in this area.
+
+# Users vs Subscribers
+
+Who are using our bikes the most? He we look at long-term vs short-term riders. Subscribers are the dominant type of user by far! 
+This means we have more of a stable kind of user throughout the year instead of just relying on day-to-day users.
+It's all about growth. Looking at the percent growth of day-to-day customers from 2019 to 2020 there was a 71% growth! From 2020 to 2021 there was a whopping 424% growth! 
+On the other hand our long-term subscribers are down significatly. By 24% from 2019 to 2020 and by 80% from 2020 to 2021. 
+We can beg the question "Why?" Why have the customers increased so drastically and the subscribers decreased? The pandemic of course. 
+With less people commuting consistnetly, there may be less need to subscribe. 
+
+# Ridership growth
+
+Since we know that the pandemic has infulenced the total subscribers and customers, we should also look at how this would impact the total recorded rides and growth over the past 3 years. 
+We can see a steady decline in the total recorded trips, with a 16% decrease from 2019 to 2020 and a 81% decrease from 2020 to 2021. 
+We also need to account for the fact that we are only just at the beginning of the 2nd quarter of 2021 but there have still been a 20%(2020) and 25%(2021) decrease. 
+With Covid-19 restrictions lifting, there is still time to turn 2021 around!
+
+# Increase in Female riders
+
+How have the demographics changed of the riders? Gender 1 is representative of Male and Gender 2 of Female. 
+We can see that, even though there was a significant drop-off in total rides in 2020, the proportion of male and female riders has changed! 
+Female riders made up almost 30% of total rides in 2020 as compared to 2019 where they only made up 24%! 
+This is progress that we can hope to continue through 2021.
+
+# Age and Tripduration
+
+Which age groups take the longest trips? This data is a little interesting because clearly the odds of users being over 90 would not be taking such long trips. 
+Or for that matter actually exist. We can assume that the some if not all of those ages have been falsified. 
+It is interesting to see that as people move towards their 70s and 80s, the longer trips they begin to have. 
+This can show that older individuals may tend to take more leasure rides.
+
+# Bikes in need of Repair
+
+In need of repare? These are the bikes that have been used the most in minutes over the past 3 years. 
+It's important to have regular maintenance on these bikes to ensure that none of them malfunction during use for protection of the users. 
+It may be prudent to bring in bikes every 10K minutes of use to make sure they function properly.
